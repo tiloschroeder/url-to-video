@@ -13,6 +13,7 @@ Plugin for Bludit CMS that converts short URLs from YouTube and Vimeo into an if
 
 ## How to use
 
+Just paste the short URL from YouTube or Vimeo into the editor and link it to yourself. Please note that there must be a blank line above and below the URL. That`s all.
 
 ## Languages
 
