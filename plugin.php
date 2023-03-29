@@ -39,7 +39,7 @@ class urlToVideo extends Plugin {
         $html .= '<!-- Tab usage -->';
         $html .= '<div class="tab-pane fade" id="usage" role="tabpanel" aria-labelledby="nav-usage-tab">';
         $html .= '<p class="mt-4">' . $L->get('usage-example-text') . '</p>';
-        $html .= '<div class="alert alert-light border ml-4 mr-4"><span style="background-color:var(--gray)">&nbsp;</span><pre>&lt;https://youtu.be/hüTZeLkRütz3l&gt;</pre><span style="background-color:var(--gray)">&nbsp;</span></div>';
+        $html .= '<div class="alert alert-light border ml-4 mr-4"><span style="background-color:var(--gray)">&nbsp;</span><pre>https://youtu.be/hüTZeLkRütz3l</pre><span style="background-color:var(--gray)">&nbsp;</span></div>';
         $html .= '<p class="ml-4 mr-4 alert alert-info">' . $L->get('usage-notice-text') . '</p>';
         $html .= '</div>'>
         $html .= '</div>';
