@@ -1,0 +1,16 @@
+{
+    "plugin-data":
+    {
+        "name": "URL to video",
+        "description": "Convierte URLs cortas de YouTube y Vimeo en un iframe."
+    },
+    "first-tab": "Configuración",
+    "second-tab": "Uso",
+    "bootstrap-theme-support": "Tema con Bootstrap",
+    "no-bootstrap-theme-support": "Tema sin Bootstrap",
+    "content-bootstrap-support": "Este plugin soporta temas con Bootstrap versión 3.x, 4.x y 5.x. Los vídeos se incrustan en formato 16:9 y responden automáticamente al diseño.<br />No necesitas hacer nada más.",
+    "content-no-bootstrap-support": "Si tu tema viene sin Bootstrap, puedes añadir un pequeño archivo CSS que hará que los vídeos respondan automáticamente al diseño.",
+    "usage-example-text": "El siguiente ejemplo muestra cómo utilizarlo en el editor:",
+    "usage-notice-text": "Sólo tienes que pegar la URL corta de YouTube o Vimeo en el editor y enlazarla a ti mismo.<br /><strong>Ten en cuenta que debe haber una línea en blanco por encima y por debajo de la URL.</strong> Eso es todo.",
+    "include-css-yes": "Sí, añadir un estilo mínimo a la cabecera"
+}

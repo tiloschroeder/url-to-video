@@ -1,0 +1,16 @@
+{
+    "plugin-data":
+    {
+        "name": "URL до відео",
+        "description": "Перетворює короткі URL-адреси з YouTube і Vimeo в iframe."
+    },
+    "first-tab": "Налаштування",
+    "second-tab": "Використання",
+    "bootstrap-theme-support": "Тема з Bootstrap",
+    "no-bootstrap-theme-support": "Тема без Bootstrap",
+    "content-bootstrap-support": "Цей плагін підтримує теми з Bootstrap версії 3.x, 4.x і 5.x. Відео вбудовуються у форматі 16:9 і автоматично реагують на макет.<br />Вам не потрібно робити нічого іншого.",
+    "content-no-bootstrap-support": "Якщо ваша тема не має Bootstrap, ви можете додати невеликий CSS-файл, який змусить відео автоматично реагувати на макет.",
+    "usage-example-text": "У наступному прикладі показано, як використовувати його в редакторі:",
+    "usage-notice-text": "Просто вставте коротку URL-адресу з YouTube або Vimeo в редактор і зробіть на неї посилання.<br /><strong>Зверніть увагу, що над і під URL-адресою має бути порожній рядок.</strong> Це все.",
+    "include-css-yes": "Так, додайте мінімальний стиль до заголовка"
+}
