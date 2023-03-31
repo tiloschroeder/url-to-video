@@ -2,7 +2,7 @@
     "author": "Tilo Schröder",
     "email": "hello@tiloschroeder.de",
     "website": "https://github.com/tiloschroeder/url-to-video",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "releaseDate": "2023-03-28",
     "license": "MIT",
     "compatible": "3.14.1",

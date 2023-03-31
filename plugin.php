@@ -1,11 +1,12 @@
 <?php
 
-class urlToVideo extends Plugin {
+class urlToVideo extends Plugin
+{
 
     public function init()
     {
         $this->dbFields = array(
-                'css-head' => 'no'
+            'css-head' => 'no'
         );
 
     }
